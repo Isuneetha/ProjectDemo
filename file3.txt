@@ -1,0 +1,2 @@
+this the from local copy to remote :wq
+
